@@ -10,7 +10,7 @@ def start_game(generate_round):
     print(instruction)
 
     for _ in range(3):
-        question, correct_answer, _ = generate_round()
+        question, correct_answer, instruction = generate_round()
         print(f"Question: {question}")
         user_answer = prompt.string("Your answer: ")
 

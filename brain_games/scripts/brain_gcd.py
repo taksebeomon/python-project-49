@@ -14,8 +14,9 @@ def generate_round():
 
     question = f"{number1} {number2}"
     correct_answer = str(find_gcd(number1, number2))
+    instruction = "Find the greatest common divisor of given numbers."
 
-    return question, correct_answer
+    return question, correct_answer, instruction
 
 
 def main():
