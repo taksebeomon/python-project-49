@@ -8,3 +8,5 @@ Asciinema with "brain-calc" game test: https://asciinema.org/a/xQsyNOOZO9jnX7kZI
 Asciinema with "brain-gcd" game test: https://asciinema.org/a/8RmLmNgb922G8ub95TH7JmnTQ
 
 Asciinema with "brain-progression" game test: https://asciinema.org/a/M8mzBGnjEOEBZmbRolVOx7CWM
+
+Asciinema with "brain-prime" game test: https://asciinema.org/a/nX1TsOkrAd8hJwWl6t8TII2Bt
