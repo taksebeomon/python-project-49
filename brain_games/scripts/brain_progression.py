@@ -17,7 +17,8 @@ def generate_round():
     progression[hidden_element_index] = '..'
 
     question = ' '.join(progression)
-    return question, correct_answer
+    instruction = "What number is missing in the progression?"
+    return question, correct_answer, instruction
 
 
 def main():
