@@ -6,10 +6,7 @@ def main():
     print("Welcome to the Brain Games!")
     name = prompt.string('May I have your name, dorogusha? ')
     print(f"Hello, {name}!")
-    print(
-        'Answer "yes" if the number is even, '
-        'otherwise answer "no".'
-    )
+    print('Answer "yes" if the number is even, otherwise answer "no".')
 
     for _ in range(3):
         rand_numb = random.randint(1, 100)
