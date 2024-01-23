@@ -8,7 +8,7 @@ def main():
     print(f"Hello, {name}!")
     print(
         'Answer "yes" if the number is even, '
-        'otherwise answer "no"'
+        'otherwise answer "no".'
     )
 
     for _ in range(3):
