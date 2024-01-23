@@ -7,8 +7,7 @@ def main():
     name = prompt.string('May I have your name, dorogusha? ')
     print(f"Hello, {name}!")
     print(
-        'Answer "yes" if the number is even '
-        '(i mean, if it divides by 2 without tails, dorogusha), '
+        'Answer "yes" if the number is even, '
         'otherwise answer "no"'
     )
 
