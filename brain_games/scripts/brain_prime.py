@@ -16,8 +16,12 @@ def generate_round():
 
     question = str(number)
     correct_answer = 'yes' if is_prime(number) else 'no'
+    instruction = (
+        "Answer 'yes' if given number is prime. "
+        "Otherwise answer 'no'."
+    )
 
-    return question, correct_answer
+    return question, correct_answer, instruction
 
 
 def main():
