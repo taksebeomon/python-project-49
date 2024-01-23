@@ -6,3 +6,5 @@ Asciinema with package installation and "brain-even" game test: https://asciinem
 Asciinema with "brain-calc" game test: https://asciinema.org/a/xQsyNOOZO9jnX7kZIqcFBxoYA
 
 Asciinema with "brain-gcd" game test: https://asciinema.org/a/8RmLmNgb922G8ub95TH7JmnTQ
+
+Asciinema with "brain-progression" game test: https://asciinema.org/a/M8mzBGnjEOEBZmbRolVOx7CWM
