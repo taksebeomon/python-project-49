@@ -15,7 +15,8 @@ def generate_round():
     elif operation == '*':
         correct_answer = str(number1 * number2)
 
-    return question, correct_answer
+    instruction = "What is the result of the expression?"
+    return question, correct_answer, instruction
 
 
 def main():
